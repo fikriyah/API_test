@@ -39,8 +39,8 @@ DeactivateAcc
     Click Element   ${platform}
     Input Text      ${platform}       binance
     Click Element   ${continue_btn}
-    wait until page contains element   ${confirm}    60
-    Click Element   ${confirm}
+    wait until page contains element   ${confirm_btn}    60
+    Click Element   ${confirm_btn}
 
 
 

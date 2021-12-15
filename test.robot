@@ -23,7 +23,7 @@ ${deactivate_btn}   //*[@id="app_contents"]/div/div/div/div/div[2]/div/div[2]/di
 ${reason_btn}   //*[@id="app_contents"]/div/div/div/div/div[2]/div/div[2]/div/div/div/form/label[1]/span[2]
 ${platform}     //*[@id="app_contents"]/div/div/div/div/div[2]/div/div[2]/div/div/div/form/div[1]/textarea
 ${continue_btn}     //*[@id="app_contents"]/div/div/div/div/div[2]/div/div[2]/div/div/div/form/div[3]/div[2]/button[2]
-${confirm}      //*[@id="modal_root"]/div/div/div/div[2]/button[2]
+${confirm_btn}      //*[@id="modal_root"]/div/div/div/div[2]/button[2]
 *** Keyword ***
 
 *** Test Cases ***
